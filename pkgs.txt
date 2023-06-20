@@ -1,0 +1,7 @@
+dunst
+grim
+gtk-engine-murrine
+hyprpaper
+light
+qtwayland
+xdg-desktop-portal-hyprland
